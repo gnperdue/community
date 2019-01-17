@@ -6,8 +6,11 @@
 # SIGS
 
 sigs/rust/ @adamcrume
-sigs/tensorboard/ @jart
+sigs/tensorboard/ @ewilderj @manivaradarajan @martinwicke
 sigs/build/ @martinwicke @ewilderj @angersson @perfinion
+sigs/addons/ @martinwicke @ewilderj @karmel @seanpmorgan @armando-fandango
+sigs/networking/ @martinwicke @ewilderj @byronyi @jbedorf @poxvoculi
+sigs/io/ @martinwicke @ewilderj @mrry @yongtang @dmitrievanthony
 
 # RFCs
 
